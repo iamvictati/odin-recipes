@@ -1,0 +1,26 @@
+* {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 15px; 
+}
+
+h1 {
+    font-size: 40px; 
+    color: rgb(250, 136, 155);
+    text-shadow: 0 0 3px #f92b2b, 0 0 3px #5555fc;
+}
+
+h2 {
+    font-size: 20px;
+    color: rgb(246, 94, 147); 
+}
+
+img {
+    width: 540px;
+    height: 300px; 
+    border-style: groove;
+    border-color: pink;
+}
+
+a {
+    color: rgb(246, 94, 147); 
+}
